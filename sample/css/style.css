@@ -1,0 +1,206 @@
+/* Onigiri style.css */
+body {
+	line-height: 1.7;
+	font-family: 'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','メイリオ',Meiryo,'ＭＳ Ｐゴシック',Osaka,sans-serif;
+}
+
+.navbar {
+	text-align: center;
+}
+
+nav {
+	margin: 0 auto;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+	letter-spacing: 0.2em;
+}
+
+nav li {
+	text-align: center;
+}
+
+.keyimg {
+	width: 100%;
+	background-image: url(../img/keyimg.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.title {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	letter-spacing: 0.1em;
+	font-size: 28px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+#instafeed {
+	padding: 0;
+}
+
+#instafeed li {
+	list-style: none!important;
+}
+
+#instafeed li img {
+	width: 100%;
+}
+
+.gm-map {
+	position: relative;
+	width: 100%;
+	height: 400px;
+}
+
+.gm-map iframe {
+	position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.twitter-widget-0 {
+	margin: 0 auto;
+}
+
+.insta-text {
+	height: 5.8em;
+	overflow: hidden;
+}
+
+/* カスタム, iPhone Retinaディスプレイ */
+@media only screen and (min-width : 320px) {
+	.keyimg {
+		height: 250px;
+	}
+
+	#about img {
+		width: 100%;
+	}
+
+	.col-md-4, .col-md-6 {
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	h2#about {
+		font-size: 16px;
+		font-weight: 400;
+	}
+
+	h2#about span {
+		font-size: 80px;
+		font-weight: 200;
+	}
+}
+
+/* XSサイズ : Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+	#about img {
+		width: 100%;
+	}
+
+	.col-md-offset-3 {
+		margin-right: 25%;
+	}
+
+	.col-md-4, .col-md-6 {
+		margin-right: 0;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+
+	.navbar {
+		width: 100%;
+	}
+}
+
+/* Sサイズ、タブレット : Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+	.keyimg {
+		height: 500px;
+	}
+
+	#about img {
+		width: auto;
+	}
+
+	.navbar {
+		width: 60%;
+	}
+
+	h2#about {
+		font-size: 20px;
+		font-weight: 400;
+	}
+
+	h2#about span {
+		font-size: 120px;
+		font-weight: 200;
+	}
+}
+
+/* Mサイズ、デスクトップ : Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* Lサイズ、ワイドスクリーン : Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
+
+.mb0 {
+	margin-bottom: 0;
+}
+
+.mb10 {
+	margin-bottom: 10px;
+}
+
+.mb20 {
+	margin-bottom: 20px;
+}
+
+.mb30 {
+	margin-bottom: 30px;
+}
+
+.mb40 {
+	margin-bottom: 40px;
+}
+
+.mb50 {
+	margin-bottom: 50px;
+}
+
+.mb100 {
+	margin-bottom: 100px;
+}
+
+.mt0 {
+	margin-top: 0;
+}
+
+.mt10 {
+	margin-top: 10px;
+}
+
+.mt20 {
+	margin-top: 20px;
+}
+
+.mt30 {
+	margin-top: 30px;
+}
+
+.mt40 {
+	margin-top: 40px;
+}
+
+.mt50 {
+	margin-top: 50px;
+}

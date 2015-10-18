@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>おにぎりジャパン</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="日本の主食はお米です！日本のファストフード「おにぎり」を世界に広めよう！">
+
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/bootstrap-responsive.min.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+
+<!-- Google Font -->
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900' rel='stylesheet' type='text/css'>
+
+</head>
+
+<body>
+
+<div class="container">
+  <!-- Site logo -->
+  <h1 class="text-center mt50 mb50"><img src="img/logo.png" alt="おにぎり　ジャパン"></h1>
+
+    <!-- Site navigation -->
+    <nav class="navbar">
+        <ul class="nav">
+           <li class="col-md-3"><a href="#map">MAP</a></li>
+           <li class="col-md-3"><a href="#photo">PHOTO</a></li>
+           <li class="col-md-3"><a href="#twitter">TWITTER</a></li>
+           <li class="col-md-3"><a href="#author">AUTHOR</a></li>
+        </ul>
+    </nav><!-- /.navbar -->
+
+  </div><!-- /.container -->
+
+  <div class="keyimg mb100"></div>
+
+  <div class="container">
+    <div class="row clearfix mb100">
+
+      <!--デバイスフォントタイトルのタイトル-->
+      <h2 id="about" class="title">Soul Food of Japan<br>
+      <span>ONIGIRI</span></h2>
+
+      <!--画像タイトル-->
+      <!--<h2 id="about" class="text-center mb40"><img src="img/about.png" alt="タイトル"></h2>-->
+
+      <div class="col-md-6 col-md-offset-3">
+        <p>おにぎり（御握り）は炊いた米、すなわちご飯に味を付けたり具を入れたりして、三角形・俵形・球状などに加圧成型した食べ物である。通常は手のひらに載る程度の大きさに作る。<br>
+        作り置きが可能である。さらに保存性・携行性に優れており、手づかみで食べられることから日本では古くから今日に至るまで携行食や弁当として重宝されている。<br>
+        もともとは残り飯の保存や携行食として発達したが、その後は常食としてのおにぎりが主流となってコンビニエンスストアやスーパーマーケットでも販売されている。<br>
+        日本のコンビニエンスストアの世界進出とともに、世界各国でおにぎりが販売されているほか、居酒屋や日本料理店の世界進出に伴って、一部の国でも食べることが可能となってきた。</p>
+      </div>
+    </div>
+
+    <div class="mb100">
+      <h2 id="map" class="title">MAP</h2>
+      <p class="text-center mb30">美味しいおにぎりが買えるお見せをご紹介します。</p>
+      <div class="gm-map">
+        <iframe src="https://www.google.co.jp/maps/d/embed?mid=zBnJnIAw-70k.k7JC22K7O5T8" width="640" height="480" frameborder="0"></iframe>
+      </div><!-- /.gm-map -->
+    </div>
+
+    <div class="mb100">
+      <h2 id="photo" class="title">INSTAGRAM</h2>
+      <p class="text-center mb30">#ハッシュタグ"onigirijp"を付けて投稿しよう！</p>
+      <div class="row-fluid">
+        <ul id="instafeed" class="clearfix"></ul>
+      </div>
+    </div>
+
+    <div class="row clearfix mb100">
+      <h2 id="twitter" class="title">TWITTER</h2>
+      <div class="col-md-6 col-md-offset-3">
+        <p class="text-center mb30">「おにぎり」を含むツイートを表示しています。</p>
+        <div class="text-center"><a class="twitter-timeline" href="https://twitter.com/search?q=%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A" data-widget-id="655432896212176897">おにぎりに関するツイート</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+      </div>
+    </div><!-- /.row -->
+
+    <div class="row clearfix mb100">
+      <h2 id="author" class="title">AUTHOR</h2>
+      <div class="col-md-6 col-md-offset-3">
+        <p class="text-center"><img src="img/author.png" alt="" class="img-circle"></p>
+        <p class="text-center">福岡県生まれの和歌山県育ち。<br>
+          とんこつラーメンと梅干しをこよなく愛する<br>
+          フリーランスのUIデザイナー。</p>
+      </div>
+    </div><!-- /.row -->
+
+  <hr style="clear:both;">
+
+  <div class="footer text-center">
+    <p>&copy;2015 ONIGIRI JAPAN ALL RIGHTS RESERVED.</p>
+  </div>
+
+</div> <!-- /container -->
+
+
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/instafeed.min.js"></script>
+<script type="text/javascript">
+  var feed = new Instafeed({
+      get: 'tagged',
+      tagName: 'onigirijp',
+      clientId: 'b6e1f6100e8e47c6aca3f3ff8c021bce',
+      template: '<li class="col-md-4 mb20">\
+      <a href="{{link}}"><img src="{{image}}" class="img-thumbnail mb10" /></a>\
+      <p class="insta-text">{{caption}}<br>\
+      <span class="glyphicon glyphicon-heart" aria-hidden="true"></span> {{likes}} / <span class="glyphicon glyphicon-comment" aria-hidden="true"></span> {{comments}}</p>\
+      <li>',
+      resolution: 'standard_resolution',
+      limit : '9'
+  });
+  feed.run();
+</script>
+<script type="text/javascript" src="js/share.js"></script>
+</body>
+</html>
