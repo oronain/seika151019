@@ -3,68 +3,33 @@
 
 ---
 
-#企画内容
-
-##自己紹介
-
-最近のお仕事
-
-**Tadaima Japan**  
-[http://tadaimajp.com/](http://tadaimajp.com/)
-
-![](img/tj.jpg)
-
-**docomyanmar**  
-[http://docomyanmar.com/popamt/](http://docomyanmar.com/popamt/)
-
-![](img/docomyanamr.png)
-
----
-
-##タイトル
-俺、私的観光スポットガイドを作る
-秘密のスポット教えて
-
----
-
-##内容
-外国人向けに日本の観光スポットを俺視点で紹介する。  
-ありきたりな環境スポットではなく、みんなが知らないところ、あっと驚くような場所をネットで調べて紹介する。
-
----
-
-##目的
-- ネットで検索して、面白い、有用なコンテンツを見つける。
-- ネットでは一般的な情報だと埋もれてしまうが、スペシャルな情報はみんなに見てもらえる。情報発
-信の方法。
-- 検索で探す力がネットでは重要
-
-検索能力、情報収集能力みなさんが社会に出たら
-必ず役になってくる能力。私自身もすごく感じる。
-
-
----
-
 ##スケジュール
 --  
 #####1日目 
 - **自己紹介**
+- **授業全体の話**
 - **リサーチ&SNSの使い方**
-  - いい情報にたどりつく検索方法紹介
-- **SNSの使い方紹介**
+  - SNSの使い方紹介
+  - お題
+  - 代表的なSNSを使ってみる
 - **お題**
-  - 参考デザイン
-- **ブレスト**
+  - サンプル
+- **ブレインストーミング**
+  - 企画を考えよう
   - ドメインを探そう！
-  
+- **デザインをする**
+
 ※2日目の授業前までにテーマを提出
 
 --  
 #####2日目 
-- **デザインをする**
 - **サイトを編集する**
-  - プラグイン変更方法
+  - Atom
   - HTML、jQuery
+  - プラグイン変更方法
+  - googleマイマップ
+  - instagram
+  - Twitter
   
 --  
 #####3日目
@@ -73,34 +38,24 @@
 ---
 
 ##1日目
+
+###講師自己紹介
+
+本末英樹（モトスエヒデキ）  
+Webデザイナー
+
+
+####最近のお仕事
+
+**Tadaima Japan**  
+[http://tadaimajp.com/](http://tadaimajp.com/)
+
+**docomyanmar**  
+[http://docomyanmar.com/popamt/](http://docomyanmar.com/popamt/)
+
+
+
 ###リサーチ&SNSの使い方
-####いい情報にたどりつく検索方法紹介
-- 参考サイト紹介。
-- 例：pinterestで「Japan」で検索。雑誌で見てからネットで検索。
-- 観光スポットについては、グループでブレスト。地元ネタでもOK。アイデアは一人5個x4人。
-- 観光スポット例：おたくの聖地。呪われた場所。
-
-
-
-#####参考サイト
-
-- googleMapで面白いところを見せる（エロマンガ島？）
-- Instagramで面白いところを見せる
-- Twitterで面白いところを見せる
-
-Instagram
-
-まるたろう  
-[https://instagram.com/marutaro/](https://instagram.com/marutaro/)
-
-沼サンド  
-[https://instagram.com/yuki0207float/](https://instagram.com/yuki0207float/)
-
-ハムスター「Darcy」  
-[https://instagram.com/darcytheflyinghedgehog/](https://instagram.com/darcytheflyinghedgehog/)
-
-まこ  
-[https://instagram.com/ytrpics/](https://instagram.com/ytrpics/)
 
 
 ####SNSの使い方紹介
@@ -118,22 +73,108 @@ Instagram
 
 どこまでしってるかな？？
 
-
+--
 
 ####お題
 #####外国人向けに日本の観光スポットを俺視点で紹介
 
-ついに1000万人を超えた。  
-1341万人  
-今年は一気に2000万人いきそう  
+2014年、ついて訪日観光客が1,000万人を超えた。（1341万人）
+今年は一気に2000万人を突破するかも？！  
+ビザの緩和、円安もあり、オリンピックに向けて、更に加速する日本観光。  
 
-オリンピックに向けて、更に加速する  
-ビザの緩和、円安
 
 韓国（275万）、中国（240万）、台湾（282万）  
 イギリス（22万人）、フランス（17万人）、ドイツ（14万人）  
 アメリカ（89万人）、カナダ（17万人）
 
+
+日本が今、海外から注目されている！
+
+- [Clean Bandit クリーン・バンディット](https://www.youtube.com/watch?v=m-M1AtrxztU&index=28&list=PL6rg8Zb6t-fKr3taJTwYya-KB9f_NBvNZ)  
+曲：Rather Be（日本で撮影されたPV）
+- ベビーメタル、きゃりーぱみゅぱみゅ
+- 抹茶キットカット
+
+
+##「俺、私的観光スポットガイドサイトを作る」
+外国人向けに日本の観光スポットモノを俺/私の視点で紹介する。  
+ありきたりな環境スポットではなく、みんなが知らないところ、あっと驚くような場所をネットで調べて紹介する。
+
+サンプルサイト  
+**おにぎりジャパン**  
+[http://onigirijp.com/](http://onigirijp.com/)
+
+
+--
+
+#### 代表的なSNSを使って見る
+
+Googlemap、Instagram、Twittwrを使って検索してみよう！
+
+
+--
+
+#####googlemap
+
+(例)
+
+- 軍艦島
+- パックマン
+- ポケモンチャレンジ
+- googlemapでも火星や月が見れる
+- [group_inou / EYE (PV)](https://goo.gl/ELefFi)  
+
+
+[ストリートビュー](https://www.google.co.jp/intl/ja/maps/streetview/)
+
+
+--
+
+#####Instagram
+
+(例)
+
+- [まるたろう  ](https://instagram.com/marutaro/)
+- [沼サンド](https://instagram.com/yuki0207float/)
+- [ハムスター「Darcy」](https://instagram.com/darcytheflyinghedgehog/)
+- [小籔千豊](https://instagram.com/koyabukazutoyo_shinkigeki/)
+
+圧倒的女子力!?　小籔千豊のInstagramがじわじわ来る  
+[https://instagram.com/koyabukazutoyo_shinkigeki/](https://instagram.com/koyabukazutoyo_shinkigeki/)  
+小籔さんは、なんと最近女性誌の専属モデルになったことでも話題になっているんです。しかも、「NYLON JAPAN」「ViVi」「VOCE」の3誌同時に  
+カズニョロポーズ
+
+
+--
+
+#####Twitter
+
+(例)
+
+- 完全に一致
+- ツイッター担当者にニワトリを起用　豪チェーン店  
+ニワトリのツイートが話題に＝チキン・トリートから  
+[https://twitter.com/chickentreat](https://twitter.com/chickentreat)  
+[http://www.chickentreat.com.au/](http://www.chickentreat.com.au/)
+
+
+--
+
+#####Google
+
+Google トレンド - 急上昇ワード  
+[https://www.google.com/trends/hottrends/visualize?pn=p4&hl=ja&nrow=5&ncol=5](https://www.google.com/trends/hottrends/visualize?pn=p4&hl=ja&nrow=5&ncol=5)
+
+Google検索がもっと便利になる検索オプション・テクニックまとめ  
+[http://liginc.co.jp/web/service/google/86222](http://liginc.co.jp/web/service/google/86222)
+
+ブラウザ上でブロック崩し？Google検索の面白い「隠しコマンド」まとめ  
+[http://liginc.co.jp/184484](http://liginc.co.jp/184484)
+
+
+--
+
+####代表的な訪日外国人用の観光サイト
 
 **Time Out Tokyo**  
 [http://www.timeout.jp/tokyo/ja](http://www.timeout.jp/tokyo/ja)
@@ -142,70 +183,62 @@ Instagram
 [https://www.ana-cooljapan.com/](https://www.ana-cooljapan.com/)
 
 
-変な日本を紹介したものも集めたい。本とかグッズとか
-ココらへんに載っていないものを探そう！
+--
+
+####代表的な訪日外国人用の観光ガイドブック
 
 ![](img/book.jpg)
-
 ![](img/guidebook.jpg)
 
-地元とか京都とか
+- TimeOUT tokyo
+- Discover Japan
+- Monocle
+- lonely planet
 
-YOUは何しに日本へ？  
+
+--
+
+####他にも
+
+**YOUは何しに日本へ？**  
 [http://www.tv-tokyo.co.jp/youhananishini/](http://www.tv-tokyo.co.jp/youhananishini/)
 
-**youtube**   
 
-Clean Bandit
-クリーン・バンディット
-曲：Rather Be
-https://www.youtube.com/watch?v=m-M1AtrxztU&index=28&list=PL6rg8Zb6t-fKr3taJTwYya-KB9f_NBvNZ
+サイトやガイドブックに載っていないような  
+面白いスポットやモノを世界に発信しよう！
 
-ベビーメタル
-
-抹茶キットカット
-
-kickstarter.com  
-little witch academia  
-https://www.kickstarter.com/projects/1311401276/little-witch-academia-2
-
-圧倒的女子力!?　小籔千豊のInstagramがじわじわ来る  
-[https://instagram.com/koyabukazutoyo_shinkigeki/](https://instagram.com/koyabukazutoyo_shinkigeki/)  
-小籔さんは、なんと最近女性誌の専属モデルになったことでも話題になっているんです。しかも、「NYLON JAPAN」「ViVi」「VOCE」の3誌同時に  
-カズニョロポーズ
-
-ツイッター担当者にニワトリを起用　豪チェーン店  
-ニワトリのツイートが話題に＝チキン・トリートから  
-[https://twitter.com/chickentreat](https://twitter.com/chickentreat)
-[http://www.chickentreat.com.au/](http://www.chickentreat.com.au/)
 
 ---
 
-###デザイン
 
-![ワイヤー](img/webdesign.jpg)
+###ブレインストーミング
+チームでアイデアを出し合おう
 
-
-###ブレスト
-4人でブレスト
-
-お弁当、ハローキティ、ラーメン、寿司、わびさび...  
-いろんな日本が流行っている。
+お弁当、ハローキティ、ラーメン、盆栽...  
+いろんな日本が海外で流行っている。
 
 何が流行っているか調べよう！  
 はやっていないものを見つけよう！
 
+観光スポットについては、グループでブレスト。  
+地元ネタでもOK。アイデアは一人5個x4人。
+
+
+--
 
 ####ドメインを探そう！
 
-Webサービス作る時は、ドメインがとれるかで考えたりもします。
+Webサービス作る時は、ドメイン名（URLアドレス）が取得できるかどうかも大事。
 
-インターネット上にあるコンピューターを特定するために使われる
+**ドメインとは**  
+インターネット上にあるコンピューターを特定するために使われるもの
 
 **ムームードメイン**  
+ドメインを取得できる会社
 [https://muumuu-domain.com/](https://muumuu-domain.com/)
 
 ```
+「onigiri」で取得可能だったドメイン
 onigirijp.com
 onigiri.style
 onigiri.school
@@ -218,75 +251,17 @@ onigiri.pictures
 
 ![企画シート](img/kikaku.png)
 
----
-
-##2日目
-
 ###デザインをする
 
-- ロゴの変更
+![img/webdesign.png](img/webdesign.png)
+
+デザインを変更できるポイント
+
+- ロゴ画像の変更
 - トップバナーの変更（余裕があれば）
-- 興味のある人はCSSの変更。
-- - 別で詳しい事を聞きたい人はサポート
+- サイト概要部分の画像変更
+- ライター写真画像の変更
 
-
-###サイトを編集する
-
-- Instagramのウィジェットの使い方
-- Google Map APIの使い方（マイマップにする？）
-- Twitterウィジェットの使い方
-- ATOMインストール
-
-
-
-####Twitter
-Twitterのウィジェット公式ページ  
-[https://twitter.com/settings/widgets](https://twitter.com/settings/widgets)
-
-
-####Instagram
-
-**instafeed.js**  
-[http://instafeedjs.com/](http://instafeedjs.com/)
-
-ロケーションIDのとり方
-
-
-###面談
-席を回って進捗を見る
-
-
----
-
-##3日目
-####13:00-14:00
-作業
-
-####14:00-14:30
-チーム内講評  
-学校内にサーバーある？
-
-####14:40〜17:40
-発表、講評  
-全員発表 1人5分 30人
-コメントは1言、2言で良い。
-デジクリとグラフィック合同
-
---
-
-3講時 13:00〜14:30  
-4講時 14:40〜16:10  
-5講時 16:20〜17:50
-
-
-
-###まとめ
-俺を表現する！！  
-インプットする  
-アウトプットする  
-皆の表現を発信していこう！
-
-ネットは、自分の意見を表現できるツール。  
-簡単に全世界に見てもらえる反面、
-誰でも見れてしまう怖さもあります。
+その他のデザイン修正は、HTMLとCSSの技術が必要。  
+変更したい方は講師に個別で質問してください。
 
