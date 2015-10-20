@@ -102,7 +102,7 @@
 <script type="text/javascript">
   var feed = new Instafeed({
       get: 'tagged',
-      tagName: 'onigirijp',
+      tagName: 'onigirijp', //ハッシュタグ
       clientId: 'b6e1f6100e8e47c6aca3f3ff8c021bce',
       template: '<li class="col-md-4 mb20">\
       <a href="{{link}}"><img src="{{image}}" class="img-thumbnail mb10" /></a>\
@@ -110,7 +110,8 @@
       <span class="glyphicon glyphicon-heart" aria-hidden="true"></span> {{likes}} / <span class="glyphicon glyphicon-comment" aria-hidden="true"></span> {{comments}}</p>\
       <li>',
       resolution: 'standard_resolution',
-      limit : '9'
+      sortBy: 'most-liked', //写真のソート
+      limit: '9' //表示数
   });
   feed.run();
 </script>
