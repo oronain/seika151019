@@ -238,7 +238,7 @@ Webサービス作る時は、ドメイン名（URLアドレス）が取得で�
 [https://muumuu-domain.com/](https://muumuu-domain.com/)
 
 ```
-「onigiri」で取得可能だったドメイン
+「onigiri」で取得可能だったドメイン例
 onigirijp.com
 onigiri.style
 onigiri.school
@@ -277,4 +277,70 @@ onigiri.pictures
 [https://jp.pinterest.com/](https://jp.pinterest.com/)
 
 [https://www.behance.net/](https://www.behance.net/)
+
+
+
+---
+
+##2日目
+
+
+###サイトを編集する
+
+- ATOM（テキストエディタ）インストール
+- Instagramのウィジェットの使い方
+- Google Map APIの使い方（マイマップにする？）
+- Twitterウィジェットの使い方
+
+####事前に用意するもの
+- Atomのダウンロード
+- Googleアカウントの取得
+- オススメスポットの住所準備
+- Twitterアカウントの取得
+- Instagramアカウントの取得
+
+
+####Atom
+[https://atom.io/](https://atom.io/)  
+普段使ってるエディアターがある人は、そちらを使用しても結構です。
+
+**今注目のテキストエディタ「Atom」の使い方と便利機能まとめ**  
+[http://blog.codecamp.jp/atom_utility/](http://blog.codecamp.jp/atom_utility/)
+
+
+#####インストールするパッケージ
+
+- Japanese-menu
+
+
+####Google マイマップ
+https://www.google.co.jp/maps/d/
+
+
+####Twitter
+Twitterのウィジェット公式ページ  
+[https://twitter.com/settings/widgets](https://twitter.com/settings/widgets)  
+Twitterのアカウントが必要です
+
+
+####Instagram
+
+**instafeed.js**  
+Instagramを簡単に表示するためのJavaScriptプラグイン  
+[http://instafeedjs.com/](http://instafeedjs.com/)
+
+
+---
+
+##3日目
+####13:00-14:00
+作業
+
+####14:00-14:30
+課題データ提出  
+チーム内講評  
+
+####14:40〜17:40
+発表、講評  
+全員発表 1人5分
 
